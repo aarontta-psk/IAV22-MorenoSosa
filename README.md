@@ -36,7 +36,3 @@ Habrá una serie de agentes inteligentes cuya misión principal es entorpecer al
 - **Enemy Game Master**: Como toque final, habrá un agente inteligente que, de manera *"omnipotente"*, se encargará de **modificar el mapa para favorecer a los enemigos**, ya sea con trampas, generadores de enemigos base, o escaleras que conecten salas entre ellas.
 
     Para ello, se aplicará un **mapa de influencia** que permita conocer la presencia de tanto enemigos como jugador en la mazmorra, y así seleccionar de manera acorde.
-
-
-
-
