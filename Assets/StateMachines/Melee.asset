@@ -13,5 +13,5 @@ MonoBehaviour:
   m_Name: Melee
   m_EditorClassIdentifier: 
   _data:
-    _json: '{"graph":{"title":null,"summary":null,"pan":{"x":0.0,"y":0.0},"zoom":1.0,"elements":[],"$version":"A"}}'
+    _json: '{"graph":{"title":"Melee","summary":"State machine for the melee enemy","pan":{"x":-202.7619,"y":38.67935},"zoom":0.45,"elements":[],"$version":"A"}}'
     _objectReferences: []
