@@ -11,21 +11,9 @@ namespace es.ucm.fdi.iav.rts
 
         // Cantidad de presencia que la unidad representa en el mapa
         [SerializeField] private float _influence = 1f;
-        
         public float radius_ = 1.0f;
 
-        private void Start()
-        {
-            //if(gameObject.GetComponent<Unit>() != null){
-            //    radius_ = gameObject.GetComponent<Unit>().Radius;
-            //}else if(gameObject.GetComponent<Tower>() != null){
-            //    radius_ = gameObject.GetComponent<Tower>().Radius;
-            //}else if(gameObject.GetComponent<Village>() != null){
-            //    radius_ = gameObject.GetComponent<Village>().Radius;
-            //}else if(gameObject.GetComponent<Facility>() != null){
-            //    radius_ = gameObject.GetComponent<Facility>().Radius;
-            //}
-        }
+        private void Start() {}
 
         public virtual float LinearDropoff(float distance)
         {
