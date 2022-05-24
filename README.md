@@ -1,9 +1,11 @@
 # IAV Proyecto Final - Dungeon Crawler: The Controller
  
+### Para ver los resultados finales del proyecto, ir a [este enlace](https://github.com/IAV22-G12/ProyectoFinal)
+
 ## Propuesta
  
 Se propone para este proyecto la realización de un **Dungeon Crawler** (al estilo Enter the Gungeon) **controlado de manera automática**, e implementando distintos agentes inteligentes.
- 
+
 Para ello, se dividirá el trabajo en varias secciones:
  
 - **Creación aleatoria con memoria del mapa** (*Daniel Illanes Morillas*): Se creará un mapa de juego estilo roguelike de manera pseudo-aleatoria, siguiendo una serie de reglas predefinidas básicas. Además, la “dificultad” del mapa se ajustará al nivel del jugador, equilibrando las recompensas y castigos en función del desempeño del jugador.
